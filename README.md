@@ -19,7 +19,7 @@ Data science portfolio
 * Summary tables
 * Dataframe transformation
 
-# Project 3: Customner Attrition model in Python
+# Project 3: Customer Churn and Attrition model in Python
 * Importing the libraries
 * Loading the dataset
 * Selecting relevant features
