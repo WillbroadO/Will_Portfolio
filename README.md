@@ -30,6 +30,12 @@ Data science portfolio
 * Evaluating the dataset features
 * Conclusion and recommendation
 
+# Project 4: Customer Segmentation in K-Mean Clustering
+* Import data and select features
+* Build the model
+* Visualizing the ELBOW method to get the optimal value of K
+* Visualizing all the clusters
+* Model interpretaion
 
 
 
