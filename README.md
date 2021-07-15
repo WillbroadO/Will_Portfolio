@@ -19,4 +19,43 @@ Data science portfolio
 * Summary tables
 * Dataframe transformation
 
+# Project 3: Customner Attrition model in Python
+* Importing the libraries
+* Loading the dataset
+* Selecting relevant features
+* Converting categorical columns to numeric ones
+* Preprocessing the data
+* Training a machine learning algorithm
+* Evaluating the machine learning algorithm
+* Evaluating the dataset features
+* Conclusion and recommendation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
